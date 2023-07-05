@@ -32,7 +32,7 @@ Toujours en passant par helm
 ```
 helm repo add grafana https://grafana.github.io/helm-charts
 helm repo update
-helm install grafana grafana/grafana --namespace
+helm install grafana grafana/grafana --namespace monitoring
 ```
 
 ## Port-forward et connexion  
