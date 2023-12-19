@@ -25,7 +25,7 @@ Vérification des pods :
 kubectl get pods -n monitoring
 ```
 
-## Installatin de Grafana  
+## Installation de Grafana  
 
 Toujours en passant par helm
 
